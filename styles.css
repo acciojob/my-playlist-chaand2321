@@ -16,7 +16,12 @@ ul{
 	text-decoration-line: none;
 	padding:10px;
 }
-.player_one,.player_two{
+.player_one{
+	background-color: rgb(255, 255, 255);
+	width:100%;
+	
+}
+.player_two{
 	width:100%;
 }
 .playing{
